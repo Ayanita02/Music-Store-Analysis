@@ -1,2 +1,10 @@
 # Music-Store-Analysis
-Welcome to the Music Store Analysis repository! This project aims to analyze sales data from a music store to uncover insights about customer behavior, popular genres, and sales trends. By leveraging data analysis techniques, we will explore various aspects of the music store's performance and provide actionable insights.
+
+SQL Project to Analyze Online Music Store Data
+
+This beginner-friendly project aims to teach you how to analyze an online music store's database. By using SQL to explore the dataset, you will uncover valuable insights into the store's business growth and performance, addressing various analytical questions.
+
+# Database and Tools
+
+• Database: PostgreSQL
+• Tools: PgAdmin4
