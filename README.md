@@ -12,17 +12,17 @@ This beginner-friendly project aims to teach you how to analyze an online music 
 
 # Tables Used
 
-album
-artist
-customer
-employee
-invoice
-genre
-invoice_line
-media_type
-playlist
-playlist_track
-track
+- album
+- artist
+- customer
+- employee
+- invoice
+- genre
+- invoice_line
+- media_type
+- playlist
+- playlist_track
+- track
 
 # Queries of the Project
 
