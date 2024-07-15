@@ -7,4 +7,5 @@ This beginner-friendly project aims to teach you how to analyze an online music 
 # Database and Tools
 
 • Database: PostgreSQL
+
 • Tools: PgAdmin4
